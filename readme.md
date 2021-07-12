@@ -14,4 +14,11 @@ If you're using **Windows**, follow these steps:
 3. Restart any already open command prompts.
 4. Enter `kepler` into a fresh command prompt!
 
+### Todo List
+- [ ] Better and more verbose error messages
+- [ ] Functions returning values
+- [ ] Improved function declaration
+- [ ] Conditional statements (if, else)
+- [ ] Breakable infinite loops.
+
 #### **Additionally**, when running the interpreter, you can use provide the `--file` argument and a path to a `.sc` file, or the `--help` argument to display all arguments.
