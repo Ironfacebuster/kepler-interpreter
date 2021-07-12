@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Describe how you encountered a bug, so Kepler can improve.
-title: "[Bug]"
+title: A bug report
 labels: bug
 assignees: Ironfacebuster
 
