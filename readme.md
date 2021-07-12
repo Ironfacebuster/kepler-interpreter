@@ -9,8 +9,9 @@ Interpretation allows for faster prototyping and development. There's no having 
 
 ### How do I install it?
 If you're using **Windows**, follow these steps:
-1. Run the installer. It will automatically install the required .NET Core, and add Kepler to your path.
-2. Restart any already open command prompts.
-3. Enter `kepler` into a fresh command prompt!
+1. Get the latest release from [this page](https://github.com/Ironfacebuster/kepler-interpreter/releases)
+2. Run the installer. It will automatically install the required .NET Core, and add Kepler to your path.
+3. Restart any already open command prompts.
+4. Enter `kepler` into a fresh command prompt!
 
 #### **Additionally**, when running the interpreter, you can use provide the `--file` argument and a path to a `.sc` file, or the `--help` argument to display all arguments.
