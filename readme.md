@@ -22,4 +22,4 @@ If you're using **Windows**, follow these steps:
 - [x] Breakable infinite loops.
 - [x] Better (and working) example files
 
-#### **Additionally**, when running the interpreter, you can use provide the `--file` argument and a path to a `.sc` file, or the `--help` argument to display all arguments.
+#### **Additionally**, when running the interpreter, you can use provide a path to a `.kep` file, or the `--help` argument to display all arguments.
