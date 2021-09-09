@@ -19,7 +19,7 @@ If you're using **Windows**, follow these steps:
 - [ ] Functions returning values
 - [ ] Improved function declaration
 - [x] Conditional statements (if, else)
-- [ ] Breakable infinite loops.
+- [x] Breakable infinite loops.
 - [x] Better (and working) example files
 
 #### **Additionally**, when running the interpreter, you can use provide the `--file` argument and a path to a `.sc` file, or the `--help` argument to display all arguments.
