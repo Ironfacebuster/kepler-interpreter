@@ -10,12 +10,12 @@ Interpretation allows for faster prototyping and development. There's no having 
 ### How do I install it?
 If you're using **Windows**, follow these steps:
 1. Get the latest release from [this page](https://github.com/Ironfacebuster/kepler-interpreter/releases)
-2. Run the installer. It will automatically install the required .NET Core, and add Kepler to your path.
+2. Run the installer.
 3. Restart any already open command prompts.
 4. Enter `kepler` into a fresh command prompt!
 
 ### Todo List
-- [ ] Better and more verbose error messages
+- [x] Better and more verbose error messages
 - [ ] Functions returning values
 - [ ] Improved function declaration
 - [x] Conditional statements (if, else)
