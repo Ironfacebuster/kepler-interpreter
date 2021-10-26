@@ -16,7 +16,7 @@ If you're using **Windows**, follow these steps:
 
 ### Todo List
 - [x] Better and more verbose error messages
-- [ ] Functions returning values
+- [x] Functions returning values
 - [ ] Improved function declaration
 - [x] Conditional statements (if, else)
 - [x] Breakable infinite loops.
