@@ -1,3 +1,5 @@
+Kepler Docs: http://www.ironfacebuster.ml/kepler/docs
+
 ## Welcome to Kepler!
 This is my first ever attempt at creating my own language, and was done with little to no research beforehand (for better or for worse). While I'm sure my experience in languages like JavaScript, Python, and C# have influenced the syntax, I tried to make it as original as possible.
 
